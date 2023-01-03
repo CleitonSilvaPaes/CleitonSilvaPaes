@@ -15,12 +15,6 @@ Meu primeiro contato com o universo da programação foi em<br>2008 aonde tive a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CleitonSilvaPaes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CleitonSilvaPaes&icon=0&color=0)](https://visitcount.itsvg.in)
 
